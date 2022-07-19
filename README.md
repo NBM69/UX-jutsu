@@ -1,4 +1,4 @@
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/Kakashi_HTK">𝙺𝙰𝙺𝙰𝚂𝙷𝙸</a></b></h2>
+Ll<h2 align="center"><b>Owner: <a href="https://telegram.dog/Kakashi_HTK">𝙺𝙰𝙺𝙰𝚂𝙷𝙸</a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/ashwinstr/UX-jutsu"><img src="https://telegra.ph/file/07fd6c82047993ce244a2.png" alt="UX-jutsu" width=400px></a>
@@ -57,7 +57,7 @@
 ## How To Deploy 
 * With Heroku:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ashwinstr/MyGpack"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/NBM69/UX-jutsu"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
